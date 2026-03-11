@@ -303,10 +303,10 @@ python app.py
 
 ## 📞 **Contato**
 
-- **GitHub**: [seu-username]
-- **LinkedIn**: [seu-perfil]
-- **Email**: [seu-email]
-- **Portfolio**: [seu-site]
+- **GitHub**: https://github.com/devlucassilvapetris
+- **LinkedIn**: https://www.linkedin.com/in/lucas-silva-petris-285a44259/
+- **Email**: fenixdevacademy@gmail.com
+- **Portfolio**: fenixdevacadem.com.br
 
 ---
 
